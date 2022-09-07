@@ -22,5 +22,12 @@ public class TrackCoach implements Coach {
 		// TODO Auto-generated method stub
 		return fortuneService.getFortune();
 	}
+	
+	public void doInitially() {
+		System.out.println("Bean initilized");
+	}
+	public void doBeforeDestroy() {
+		System.out.println("Bean Destroyed");
+	}
 
 }
