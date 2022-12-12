@@ -1,6 +1,6 @@
 # Problems or may be solved
-> Frontend are not included.
-> User role solved manually, can be solved by JWT.
+> Frontend are not included.</br>
+> User role solved manually, can be solved by JWT.</br>
 > Whether user is active or not, can be solved by JWT.
 
 # API details:
